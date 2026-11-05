@@ -3,105 +3,107 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%2B+Java+%2B+Django+%2B+SQL;Building+backend+systems+that+solve+real+problems.;Learning+AI+and+building+AI+projects." alt="Typing SVG sub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%2B+Java+%2B+Django+%2B+SQL;I+just+build+stuff.+That%27s+the+whole+personality.;Currently+in+my+AI+engineer+arc." alt="Typing SVG sub" />
 </p>
 
 ---
 
-## About Me
+## the lore
 
-B.Tech CSE student at DRIEMS University, Cuttack (2025–2029), currently in 2nd year.
+i'm priyanshu. 2nd year cse @ driems university, cuttack.
 
-- Building backend systems and web platforms with Python, Django and Java, with JavaScript, HTML and CSS on the front end — role-based access, REST APIs, SQL databases, real deployment
-- Cloud Computing intern (CodeAlpha, Jun–Jul 2026) — hands-on with cloud IAM & network security basics
-- Currently learning AI/ML and building AI projects — my goal is to become an **AI Engineer**
-- Interested in backend systems, cloud, and applied AI at the edge
-- Currently open to Backend, AI, Full-Stack and Cloud internships
+i write code, it (mostly) works, and i ship it like i meant it. python, java, django and sql do the heavy lifting — javascript, html and css pull up when they're needed.
 
-My approach: understand the problem deeply first, design clean, then ship and iterate.
+currently learning ai and building ai projects. future ai engineer — manifesting it one commit at a time.
+
+also: smart india hackathon 2026 finalist, led team synkro. casual flex, moving on.
+
+my workflow: understand it → build it → break it → fix it → ship it → pretend it worked first try.
+
+no "synergy". no "leveraging". just commits.
 
 ---
 
-## Featured Projects
+## stuff i've built (proof, not promises)
 
-### [SOPAN](https://sopan-career.onrender.com) — Skill-Gap & Career Platform &nbsp;·&nbsp; [Live Demo](https://sopan-career.onrender.com) *(SIH 2026 Finalist · Team Lead)*
-> Built for Smart India Hackathon Problem Statement 26135 — a Django platform that maps student skills to career paths and closes the gap with structured recommendations.
+### [SOPAN](https://sopan-career.onrender.com) — skill-gap & career platform &nbsp;·&nbsp; [live demo](https://sopan-career.onrender.com)
+> my hackathon baby. built for smart india hackathon '26 (problem statement 26135) — it maps your skills to a career, finds the gaps, and tells you how to close them.
 
-- **Role-Based Access Control** — separate dashboards and permissions for students, mentors and admins
-- **DPDP Act 2023 Consent Workflows** — privacy-aware data handling built into the product, not bolted on
-- **Skill-Gap Engine** — compares a student's current skills against target-role requirements
+- **role-based access** — students, mentors, admins. everyone in their lane
+- **dpdp act consent flows** — privacy by design, not by apology
+- **skill-gap engine** — "you are here, the job is there, here's the bridge"
 - `Python` `Django` `PostgreSQL` `SQL` `Render`
 
 ---
 
-### [AIVOA — AI Root Cause Analysis](https://github.com/priyanshu-pgb/aivoa-rca) — Pharma Deviation RCA Platform &nbsp;·&nbsp; [Live Demo](https://aivoa-rca-omega.vercel.app)
-> AI-powered Root Cause Analysis module for a pharmaceutical API manufacturer — Deviation → RCA → CAPA, with evidence ingestion and historical-incident matching.
+### [AIVOA — AI Root Cause Analysis](https://github.com/priyanshu-pgb/aivoa-rca) &nbsp;·&nbsp; [live demo](https://aivoa-rca-omega.vercel.app)
+> pharma factories have "deviations" (something went wrong). this ai sniffs out *why* — feed it lab reports, it reads them, digs through history, and serves a root-cause analysis.
 
-- **Generic LLM vs Custom RAG** — side-by-side comparison; the RAG mode cites the most similar historical incidents
-- **Structured Extraction** — pulls product, batch, date and deviation type out of free-text lab reports and BMRs
-- **Incident Dashboard** — deviation tracking with a seeded historical database of past cases
+- **plain llm vs my custom rag** — went head to head. rag won, and it cites its sources
+- **structured extraction** — product, batch, date, deviation type, pulled straight out of messy free text
+- **incident dashboard** — every deviation tracked, with a library of past cases behind it
 - `Python` `FastAPI` `SQLite` `RAG` `REST APIs`
 
 ---
 
-### [X-Sentiment BTC Predictor](https://github.com/priyanshu-pgb/cwt-x-sentiment) — Sentiment → Price ML Pipeline
-> Predicts Bitcoin's price direction up to 5 days ahead from X (Twitter) sentiment — 70,585 real tweets joined with Coinbase price data.
+### [X-Sentiment BTC Predictor](https://github.com/priyanshu-pgb/cwt-x-sentiment)
+> fed 70,585 tweets + bitcoin prices to a model and asked "so… up or down?" (not financial advice. obviously.)
 
-- **Walk-Forward Validation** — gradient-boosting forecasts for horizons n+0 to n+5, honestly benchmarked against a persistence baseline
-- **Full Backtest** — Sharpe 1.76 · Sortino 1.69 · Max Drawdown −6.6%
-- **Sentiment Features Only** — VADER sentiment + engagement signals, no price-derived leakage in the feature set
+- **walk-forward validation** — forecasts n+0 to n+5, zero cheating with future data
+- **the scoreboard** — sharpe 1.76 · sortino 1.69 · max drawdown −6.6%
+- **kept it honest** — it didn't beat the dumb baseline on rmse, and i published that too. we don't cherry-pick here
 - `Python` `SQLite` `Gradient Boosting` `VADER` `Matplotlib`
 
 ---
 
-### Arogya Drishti — Edge AI Health Screening
-> On-device screening assistant that uses a phone camera to flag early health indicators — designed for low-connectivity settings.
+### Arogya Drishti — edge ai health screening
+> health screening that runs *on the phone itself*. camera in, early warning signs out. built for places where wifi is a rumor.
 
-- **Edge Inference** — MobileNetV3-based vision pipeline that runs without a server round-trip
-- **Screening Flow** — guided capture, instant result, and referral guidance
+- **edge inference** — mobilenetv3 vision pipeline, no server round-trip
+- **screening flow** — guided capture, instant result, referral guidance
 - `Python` `OpenCV` `MobileNetV3`
 
 ---
 
-## Tech Stack
+## the arsenal
 
-### Languages
+### languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
-### Backend
+### backend
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi" />
 </p>
 
-### Databases
+### databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
-### Frontend
+### frontend (yes, i can. no, i don't lead with it)
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### Tools
+### tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
-### AI, Data & Cloud
-`OpenCV` · `MobileNetV3` · `REST APIs` · `Chart.js` · `Render` · `Cloud IAM & Network Security`
+### also in the lab
+`OpenCV` · `MobileNetV3` · `REST APIs` · `Render` · `Cloud IAM basics` · whatever i broke this week
 
 ---
 
-## Contribution Graph
+## proof of work
 
 [![priyanshu-pgb's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-pgb&bg_color=0d1117&color=a78bfa&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/priyanshu-pgb)
 
 ---
 
-## GitHub Stats
+## the numbers
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu-pgb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -114,7 +116,9 @@ My approach: understand the problem deeply first, design clean, then ship and it
 
 ---
 
-## Connect
+## find me
+
+dms open. i reply faster than my code compiles.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/priyanshu-parida-9341a3405" target="_blank">
@@ -136,3 +140,5 @@ My approach: understand the problem deeply first, design clean, then ship and it
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshu-pgb&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
+
+<p align="center"><i>last updated: whenever i felt like it</i></p>
