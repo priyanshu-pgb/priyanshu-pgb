@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%2B+Java+%2B+Django+%2B+SQL;I+just+build+stuff.+That%27s+the+whole+personality.;Real-world+problems+hate+to+see+me+coming.;Currently+in+my+AI+engineer+arc." alt="Typing SVG sub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%2B+Java+%2B+SQL;I+just+build+stuff.+That%27s+the+whole+personality.;Real-world+problems+hate+to+see+me+coming.;Currently+in+my+AI+engineer+arc." alt="Typing SVG sub" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 i'm priyanshu. cse by enrollment, builder by choice.
 
-i write code, it (mostly) works, and i ship it like i meant it. python, java, django and sql do the heavy lifting — javascript, html and css pull up when they're needed.
+i write code, it (mostly) works, and i ship it like i meant it. python, java and sql do the heavy lifting — javascript, html and css pull up when they're needed.
 
 currently learning ai and building ai projects. future ai engineer — manifesting it one commit at a time.
 
@@ -32,7 +32,7 @@ no "synergy". no "leveraging". just commits.
 - **role-based access** — students, mentors, admins. everyone in their lane
 - **dpdp act consent flows** — privacy by design, not by apology
 - **skill-gap engine** — "you are here, the job is there, here's the bridge"
-- `Python` `Django` `PostgreSQL` `SQL` `Render`
+- `Python` `PostgreSQL` `SQL` `Render`
 
 ---
 
@@ -74,7 +74,7 @@ no "synergy". no "leveraging". just commits.
 
 ### backend
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
 ### databases
