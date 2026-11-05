@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshu-pgb/priyanshu-pgb/main/assets/header.svg" alt="PRIYANSHU — animated banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/99936925-79d2-44ed-900c-02a422f3c196" alt="PRIYANSHU" width="100%" />
 </p>
 
 <p align="center">
