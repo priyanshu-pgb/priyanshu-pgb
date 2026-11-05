@@ -10,7 +10,7 @@
 
 ## About Me
 
-B.Tech CSE student at DRIEMS University, Cuttack (2025–2029), currently in 2nd year — and **Smart India Hackathon 2026 Finalist & Team Lead** of Team SYNKRO.
+B.Tech CSE student at DRIEMS University, Cuttack (2025–2029), currently in 2nd year
 
 - Building full-stack web platforms with Python, Django and JavaScript — role-based access, REST APIs, real deployment
 - Cloud Computing intern (CodeAlpha, Jun–Jul 2026) — hands-on with cloud IAM & network security basics
