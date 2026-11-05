@@ -3,19 +3,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%2B+Django+%2B+JavaScript+%2B+REST+APIs;Building+full-stack+products+that+solve+real+problems." alt="Typing SVG sub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%2B+Java+%2B+Django+%2B+SQL;Building+backend+systems+that+solve+real+problems.;Learning+AI+and+building+AI+projects." alt="Typing SVG sub" />
 </p>
 
 ---
 
 ## About Me
 
-B.Tech CSE student at DRIEMS University, Cuttack (2025–2029), currently in 2nd year
+B.Tech CSE student at DRIEMS University, Cuttack (2025–2029), currently in 2nd year.
 
-- Building full-stack web platforms with Python, Django and JavaScript — role-based access, REST APIs, real deployment
+- Building backend systems and web platforms with Python, Django and Java, with JavaScript, HTML and CSS on the front end — role-based access, REST APIs, SQL databases, real deployment
 - Cloud Computing intern (CodeAlpha, Jun–Jul 2026) — hands-on with cloud IAM & network security basics
+- Currently learning AI/ML and building AI projects — my goal is to become an **AI Engineer**
 - Interested in backend systems, cloud, and applied AI at the edge
-- Currently open to Full-Stack, Backend and Cloud internships
+- Currently open to Backend, AI, Full-Stack and Cloud internships
 
 My approach: understand the problem deeply first, design clean, then ship and iterate.
 
@@ -29,7 +30,7 @@ My approach: understand the problem deeply first, design clean, then ship and it
 - **Role-Based Access Control** — separate dashboards and permissions for students, mentors and admins
 - **DPDP Act 2023 Consent Workflows** — privacy-aware data handling built into the product, not bolted on
 - **Skill-Gap Engine** — compares a student's current skills against target-role requirements
-- `Python` `Django` `PostgreSQL` `JavaScript` `Chart.js` `Render`
+- `Python` `Django` `PostgreSQL` `SQL` `Render`
 
 ---
 
@@ -39,7 +40,7 @@ My approach: understand the problem deeply first, design clean, then ship and it
 - **Generic LLM vs Custom RAG** — side-by-side comparison; the RAG mode cites the most similar historical incidents
 - **Structured Extraction** — pulls product, batch, date and deviation type out of free-text lab reports and BMRs
 - **Incident Dashboard** — deviation tracking with a seeded historical database of past cases
-- `React` `Vite` `Tailwind` `FastAPI` `SQLite`
+- `Python` `FastAPI` `SQLite` `RAG` `REST APIs`
 
 ---
 
@@ -66,17 +67,22 @@ My approach: understand the problem deeply first, design clean, then ship and it
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
-### Backend & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### Tools
