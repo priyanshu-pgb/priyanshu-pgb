@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=80&duration=2000&pause=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=PRIYANSHU" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/priyanshu-pgb/priyanshu-pgb/main/assets/header.svg" alt="PRIYANSHU — animated banner" width="100%" />
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 ## the lore
 
-i'm priyanshu. 2nd year cse @ driems university, cuttack.
+i'm priyanshu. cse by enrollment, builder by choice.
 
 i write code, it (mostly) works, and i ship it like i meant it. python, java, django and sql do the heavy lifting — javascript, html and css pull up when they're needed.
 
 currently learning ai and building ai projects. future ai engineer — manifesting it one commit at a time.
 
-also: smart india hackathon 2026 finalist, led team synkro. casual flex, moving on.
+also: smart india hackathon 2026 finalist. led the team. casual flex, moving on.
 
 my workflow: understand it → build it → break it → fix it → ship it → pretend it worked first try.
 
